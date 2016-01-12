@@ -43,7 +43,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Security
 
-If you discover any security related issues, please email https://github.com/teemat instead of using the issue tracker.
+If you discover any security related issues, please email 50c5ac69@opayq.com instead of using the issue tracker.
 
 ## Credits
 
