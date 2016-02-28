@@ -6,6 +6,8 @@
 
 namespace Teemat\Quetzalcoatl;
 
+use ReflectionClass;
+use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider;
 
 class QuetzalcoatlServiceProvider extends ServiceProvider
