@@ -26,7 +26,7 @@ class QuetzalcoatlServiceProvider extends ServiceProvider
     public function boot()
     {
         // Find path to the package
-        $componenentsFileName = with(new ReflectionClass('\teemat\Quetzalcoatl\QuetzalcoatlServiceProvider'))->getFileName();
+        $componenentsFileName = with(new ReflectionClass('\Teemat\Quetzalcoatl\QuetzalcoatlServiceProvider'))->getFileName();
         $componenentsPath     = dirname($componenentsFileName);
 
         $this->loadViewsFrom($componenentsPath . '/../views', 'quetzalcoatl');
