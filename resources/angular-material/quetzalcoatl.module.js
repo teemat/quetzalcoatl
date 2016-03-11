@@ -8,10 +8,9 @@
 
     angular
         .module('quetzalcoatl', [
-
             /* Shared */
-            'appFoundation',
-            'widgets'
+
+            /* Components */
 
         ]);
 
