@@ -41,5 +41,8 @@
       "Teemat\\Quetzalcoatl\\Test\\": "tests"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "config"           : {
+    "secure-http": false
+  }
 }
