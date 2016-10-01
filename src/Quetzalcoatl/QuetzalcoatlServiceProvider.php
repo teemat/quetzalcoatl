@@ -1,7 +1,7 @@
 <?php
 /**
  * QuetzalcoatlServiceProvider.php
- * Created by anonymous on 12/01/16 21:28.
+ * Created by @anonymoussc on 12/01/16 21:28.
  */
 
 namespace Teemat\Quetzalcoatl;
@@ -12,7 +12,6 @@ use Illuminate\Support\ServiceProvider;
 
 class QuetzalcoatlServiceProvider extends ServiceProvider
 {
-
     /**
      * Indicates if loading of the provider is deferred.
      *
@@ -55,5 +54,4 @@ class QuetzalcoatlServiceProvider extends ServiceProvider
     {
         return [];
     }
-
 }
