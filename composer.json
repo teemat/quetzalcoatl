@@ -28,9 +28,7 @@
   },
   "autoload"         : {
     "classmap": [
-      "src/seeds",
-      "src/controllers",
-      "tests"
+      "database"
     ],
     "psr-4"   : {
       "Teemat\\Quetzalcoatl\\": "src"
